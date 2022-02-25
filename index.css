@@ -1,0 +1,49 @@
+*{
+    text-decoration-line : none;
+    list-style: none;
+    text-decoration : none;
+    color: black;
+}
+
+.main{
+    background-image: url(./img/제목을입력해주세요_-001.png);
+    height: 500px;
+}
+
+.main > button{
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: 1000px;
+    margin-top: 540px;
+
+}
+
+.z1 > button{
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: 1000px;
+    margin-top: 1px;
+}
+.z2 > button{
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: 1000px;
+    margin-top: 40px;
+}
+.main2 > button{
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: 1500px;
+    margin-top: 1px;
+}
+.명령어{
+    font-size: 30px;
+    font-weight: 20px;
+}
+
+.명령어 > hr{
+    width: 0.1px; 
+    height: 50px;
+
+
+}
